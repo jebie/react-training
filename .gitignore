@@ -1,0 +1,8 @@
+*.DS_Store
+boilerplate-v1/node_modules/*
+boilerplate-v1/bundle*.js
+expensify-app/node_modules/*
+expensify-app/bundle*.js
+indecision-app/node_modules/*
+indecision-app/bundle*.js
+
